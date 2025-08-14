@@ -13,7 +13,7 @@
 A **collaborative group project** by Swinburne University students in partnership with **CSIRO**.  
 This repository contains the setup, configuration, and workflow for training and running **YOLOv12** object detection models.
 
-**👨‍💻 Team Members:** Harron, Feng, Bunmi, Huss, Hugo
+**👨‍💻 Team Members:** Harron, Feng, Bunmi, Huss, Hugo.
 
 ---
 
