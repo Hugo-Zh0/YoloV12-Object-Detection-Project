@@ -37,12 +37,12 @@ Before you begin, make sure you have the following installed:
 ## ⚙️ Setting Up the Codebase
 
 1️⃣ **Clone this Repository**
-<video controls src="resources/cloning-repo-to-vsc.mp4" title="Title"></video>
+
 
 <br>
 
 2️⃣ **Create a Virtual Environment** (via Anaconda Navigator or terminal)
-<video controls src="resources/setting up conda env.mp4" title="Title"></video>
+
 ```bash
 conda create -n YoloV12-Object-Detection-Project python=3.12 -y
 conda activate YoloV12-Object-Detection-Project
@@ -51,8 +51,7 @@ conda activate YoloV12-Object-Detection-Project
 <br>
 
 3️⃣ **Install Dependencies**
-<video controls src="resources/install ultralytics.mp4" title="Title"></video>
-<video controls src="resources/install pytorch cpu & cuda.mp4" title="Title"></video>
+
 ```bash
 pip install ultralytics
 
@@ -71,7 +70,7 @@ pip install torch torchvision torchaudio
 3. Select your created conda enviroment
 4. You will now see it load and activate in the terminal below VSC
 ```
-<video controls src="resources/using conda env in vsc.mp4" title="Title"></video>
+
 
 ---
 
