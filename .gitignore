@@ -1,3 +1,2 @@
 .env
-resources/
 git rm --cached .env
