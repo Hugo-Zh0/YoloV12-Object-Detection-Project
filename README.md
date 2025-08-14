@@ -44,6 +44,8 @@ https://github.com/user-attachments/assets/69724dcf-b7e4-44f8-8742-8cf390b4e77c
 
 2️⃣ **Create a Virtual Environment** (via Anaconda Navigator or terminal)
 
+https://github.com/user-attachments/assets/9e9edece-bb32-4995-b8f2-379e8e60a3ad
+
 ```bash
 conda create -n YoloV12-Object-Detection-Project python=3.12 -y
 conda activate YoloV12-Object-Detection-Project
@@ -52,6 +54,9 @@ conda activate YoloV12-Object-Detection-Project
 <br>
 
 3️⃣ **Install Dependencies**
+
+https://github.com/user-attachments/assets/14b34deb-45d9-4864-9cb0-27e5bd16f204
+https://github.com/user-attachments/assets/5d072ef0-dbbf-4f3f-af07-6d4a34e2af12
 
 ```bash
 pip install ultralytics
@@ -72,6 +77,7 @@ pip install torch torchvision torchaudio
 4. You will now see it load and activate in the terminal below VSC
 ```
 
+https://github.com/user-attachments/assets/ab91682d-b073-4d9d-83cd-9ae0c548f5b2
 
 ---
 
