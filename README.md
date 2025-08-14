@@ -56,6 +56,7 @@ conda activate YoloV12-Object-Detection-Project
 3️⃣ **Install Dependencies**
 
 https://github.com/user-attachments/assets/14b34deb-45d9-4864-9cb0-27e5bd16f204
+
 https://github.com/user-attachments/assets/5d072ef0-dbbf-4f3f-af07-6d4a34e2af12
 
 ```bash
