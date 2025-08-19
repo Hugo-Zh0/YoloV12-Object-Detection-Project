@@ -1,0 +1,1 @@
+# This script will be used to validate the models and images to ensure they are correct

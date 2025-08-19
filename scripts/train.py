@@ -1,3 +1,4 @@
+# This script is used to run training on our dataset
 from pathlib import Path
 from ultralytics import YOLO # type: ignore
 import torch # type: ignore
@@ -5,7 +6,7 @@ import torch # type: ignore
 # scripts/train.py -> go up to repo root
 ROOT = Path(__file__).resolve().parents[1]
 model_path = ROOT / "models" / "yolov12s.pt"
-data_yaml  = ROOT / "data" / "data.yaml"
+data_yaml  = ROOT / "yaml" / "data.yaml"
 
 # Optional: nudge CPU vs CUDA automatically
 device = 0 if torch.cuda.is_available() else "cpu"
