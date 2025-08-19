@@ -1,3 +1,4 @@
 .env
 resources/
+dataset/
 git rm --cached .env
