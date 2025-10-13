@@ -1,1 +1,0 @@
-# This script will be used to do final testing to see if object detection is working via, photo, video or webcam
