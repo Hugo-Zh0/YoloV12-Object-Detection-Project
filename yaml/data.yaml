@@ -1,0 +1,16 @@
+
+# Dataset paths with proper YOLO structure
+train: /content/YoloV12-Object-Detection-Project/datasets/koala/train
+val: /content/YoloV12-Object-Detection-Project/datasets/koala/valid
+test: /content/YoloV12-Object-Detection-Project/datasets/koala/valid  # Using val as test too
+
+# Dataset root directory
+path: /content/YoloV12-Object-Detection-Project/datasets/koala
+
+# Keypoint configuration
+kpt_shape: [17, 3]
+flip_idx: [1, 0, 2, 4, 3, 6, 5, 8, 7, 9, 10, 11, 12, 14, 13, 16, 15]
+
+# Classes
+nc: 1
+names: ['Koala']

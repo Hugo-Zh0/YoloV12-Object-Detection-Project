@@ -1,0 +1,12 @@
+Pose Estimation Model: /content/YoloV12-Object-Detection-Project/runs/completed-training/train2/weights/best.pt
+
+=== Overall Metrics ===
+metrics/precision(B): 1.0
+metrics/recall(B): 0.9504981358898715
+metrics/mAP50(B): 0.9802049185271222
+metrics/mAP50-95(B): 0.6078132714920733
+metrics/precision(P): 0.728412377780913
+metrics/recall(P): 0.7101449275362319
+metrics/mAP50(P): 0.6569537179727569
+metrics/mAP50-95(P): 0.1828079877145215
+fitness: 0.7906212592065949

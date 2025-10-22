@@ -1,0 +1,36 @@
+Sequential Pipeline Test Results (Pose Test Set)
+Object Detection Model: /content/YoloV12-Object-Detection-Project/runs/completed-training/koala-anatomy-features/train1/features_train3_best.pt
+Pose Estimation Model: /content/YoloV12-Object-Detection-Project/runs/completed-training/train/weights/best.pt
+
+=== Results Summary ===
+Images processed: 5
+Total detections: 17
+Detections with keypoints: 17
+Success rate: 100.00%
+
+=== Individual Results ===
+Image: koala_214_jpg.rf.3d7872522c424a56b0cbe9339cde7845.jpg
+  Detections: 4
+  With keypoints: 4
+  Output: /content/YoloV12-Object-Detection-Project/runs/test-models/sequential/sequential_pose_0.jpg
+
+Image: frame_070600_00h47m04s000ms_jpg.rf.0415e565b5b14166524339829f7c8da3.jpg
+  Detections: 1
+  With keypoints: 1
+  Output: /content/YoloV12-Object-Detection-Project/runs/test-models/sequential/sequential_pose_1.jpg
+
+Image: koala_235_jpg.rf.90e7d8fe34730df74c2df57fc7185f47.jpg
+  Detections: 4
+  With keypoints: 4
+  Output: /content/YoloV12-Object-Detection-Project/runs/test-models/sequential/sequential_pose_2.jpg
+
+Image: koala_225_jpg.rf.f4aa506aab10d0c9179c95b07719f78c.jpg
+  Detections: 5
+  With keypoints: 5
+  Output: /content/YoloV12-Object-Detection-Project/runs/test-models/sequential/sequential_pose_3.jpg
+
+Image: pexels-amedeo-penna-949241373-20312221_jpg.rf.d272e7c6ee08eb76f2ee3023b8016d93.jpg
+  Detections: 3
+  With keypoints: 3
+  Output: /content/YoloV12-Object-Detection-Project/runs/test-models/sequential/sequential_pose_4.jpg
+

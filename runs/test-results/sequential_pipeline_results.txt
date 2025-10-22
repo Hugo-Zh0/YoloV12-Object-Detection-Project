@@ -1,0 +1,61 @@
+Sequential Pipeline Test Results
+Object Detection Model: /content/YoloV12-Object-Detection-Project/runs/completed-training/koala-anatomy-features/train1/features_train3_best.pt
+Pose Estimation Model: /content/YoloV12-Object-Detection-Project/runs/completed-training/train2/weights/best.pt
+
+=== Results Summary ===
+Images processed: 10
+Total detections: 14
+Detections with keypoints: 7
+Success rate: 50.00%
+
+=== Individual Results ===
+Image: frame_058840_00h39m13s600ms_jpg.rf.d655c3093b1883795a862b101a5ea029.jpg
+  Detections: 1
+  With keypoints: 1
+  Output: /content/YoloV12-Object-Detection-Project/runs/test-models/sequential/sequential_pose_0.jpg
+
+Image: frame_065380_00h43m35s200ms_jpg.rf.efb24e7fb291b38cc61dff77117f6018.jpg
+  Detections: 1
+  With keypoints: 0
+  Output: /content/YoloV12-Object-Detection-Project/runs/test-models/sequential/sequential_pose_1.jpg
+
+Image: frame_073380_00h48m55s200ms_jpg.rf.815c2dec6d6b9bcbfa12c3434ef04f98.jpg
+  Detections: 1
+  With keypoints: 1
+  Output: /content/YoloV12-Object-Detection-Project/runs/test-models/sequential/sequential_pose_2.jpg
+
+Image: koala_261_jpg.rf.60f3593a0424518aed61a5f17b55f631.jpg
+  Detections: 2
+  With keypoints: 0
+  Output: /content/YoloV12-Object-Detection-Project/runs/test-models/sequential/sequential_pose_3.jpg
+
+Image: koala_214_jpg.rf.3d7872522c424a56b0cbe9339cde7845.jpg
+  Detections: 4
+  With keypoints: 0
+  Output: /content/YoloV12-Object-Detection-Project/runs/test-models/sequential/sequential_pose_4.jpg
+
+Image: frame_071200_00h47m28s000ms_jpg.rf.05a3b73106857387bea29906d1bc3ed1.jpg
+  Detections: 1
+  With keypoints: 1
+  Output: /content/YoloV12-Object-Detection-Project/runs/test-models/sequential/sequential_object_0.jpg
+
+Image: frame_066320_00h44m12s800ms_jpg.rf.635a7acb4eb79e601bca4971e295b932.jpg
+  Detections: 1
+  With keypoints: 1
+  Output: /content/YoloV12-Object-Detection-Project/runs/test-models/sequential/sequential_object_1.jpg
+
+Image: frame_059820_00h39m52s800ms_jpg.rf.597f41090814d68bcc309a7dbc39e913.jpg
+  Detections: 1
+  With keypoints: 1
+  Output: /content/YoloV12-Object-Detection-Project/runs/test-models/sequential/sequential_object_2.jpg
+
+Image: frame_072800_00h48m32s000ms_jpg.rf.b83731d3cf0f5411a6f05ae5d71f2ae3.jpg
+  Detections: 1
+  With keypoints: 1
+  Output: /content/YoloV12-Object-Detection-Project/runs/test-models/sequential/sequential_object_3.jpg
+
+Image: frame_065260_00h43m30s400ms_jpg.rf.7c56745da3cd23c118a79af21a7e8f88.jpg
+  Detections: 1
+  With keypoints: 1
+  Output: /content/YoloV12-Object-Detection-Project/runs/test-models/sequential/sequential_object_4.jpg
+

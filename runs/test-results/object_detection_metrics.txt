@@ -1,0 +1,8 @@
+Object Detection Model: /content/YoloV12-Object-Detection-Project/runs/completed-training/koala-anatomy-features/train1/features_train3_best.pt
+
+=== Overall Metrics ===
+metrics/precision(B): 0.9758017401137208
+metrics/recall(B): 0.9038461538461539
+metrics/mAP50(B): 0.9648593573275915
+metrics/mAP50-95(B): 0.7488577879492129
+fitness: 0.7488577879492129
